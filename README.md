@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://digitalcodelabs.dev/android-icon-192x192.png" alt="Digital Code Labs Logo" width="120" />
+  <img src="https://digitalcodelabs.dev/favicon.svg" alt="Digital Code Labs Logo" width="120" />
 
   <h1>Welcome to Digital Code Labs 🚀</h1>
   <h3>Your Trusted Partner in Custom Coding & Server Management</h3>
